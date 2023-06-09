@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//abinseb.github.io/MST_React_Assignment2/static/css/main.073c9b0a.css",
+    "main.js": "/http//abinseb.github.io/MST_React_Assignment2/static/js/main.45b792a4.js",
+    "static/js/787.c0e8e4ae.chunk.js": "/http//abinseb.github.io/MST_React_Assignment2/static/js/787.c0e8e4ae.chunk.js",
+    "index.html": "/http//abinseb.github.io/MST_React_Assignment2/index.html",
+    "main.073c9b0a.css.map": "/http//abinseb.github.io/MST_React_Assignment2/static/css/main.073c9b0a.css.map",
+    "main.45b792a4.js.map": "/http//abinseb.github.io/MST_React_Assignment2/static/js/main.45b792a4.js.map",
+    "787.c0e8e4ae.chunk.js.map": "/http//abinseb.github.io/MST_React_Assignment2/static/js/787.c0e8e4ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.45b792a4.js"
+  ]
+}
